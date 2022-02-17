@@ -5,16 +5,16 @@
 ✌🏽 pronomes: Ela/Dela. <br>
 :octocat: Migrando da geologia para a área de desenvolvimento. <br>
 👩🏽‍💻 Formada em Front-End pela Reprograma e cursando a Escola de Jovens Programadores em Java. <br>
-👩🏽‍🏫 Professora voluntária de informática no [Instituto Pensando Bem](https://linktr.ee/pensandobemof). <br>
-💜 Apaixonada por tecnologia e transformação socioambiental!<br>
+👩🏽‍🏫 Professora voluntária de informática no [Instituto Pensando Bem](https://linktr.ee/pensandobemof/). <br>
+💜 Apaixonada por tecnologia e transformação socioambiental! <br>
 </p>
 <div>    
   
 ##
   ### Competências e estatísticas:
   <a href="https://github.com/Giselz"><br>
-  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api?username=Giselz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselz&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giselz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
     
 ##
