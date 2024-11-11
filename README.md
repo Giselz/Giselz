@@ -3,10 +3,10 @@
 <p>
 <img align="right" alt="Gisel-illustration" height="150" style="border-radius:50px;" src="https://imgur.com/MVJOwER.png"> <br>
 ✌🏽 pronomes: Ela/Dela. <br>
-:octocat: Migrando da geologia para a área de desenvolvimento. <br>
-👩🏽‍💻 Formada em Front-End pela Reprograma e cursando a Escola de Jovens Programadores em Java. <br>
-👩🏽‍🏫 Professora voluntária de informática no Instituto Pensando Bem. <br>
-💜 Apaixonada por tecnologia e transformação socioambiental! <br>
+:octocat: Analista de Dados no Juventude Digital <br>
+👩🏽‍💻 Graduanda em Ciências de Dados na UFC <br>
+👩🏽‍🏫 Fui professora voluntária de informática no Instituto Pensando Bem. <br>
+💜 Apaixonada por tecnologia, transformação socioambiental e Masterchef 🤪! <br>
 </p>
 <div>    
   
@@ -20,17 +20,10 @@
 ##
   ### Linguagens e Ferramentas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Terminal" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <img align="center" alt="Terminal" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
 </div>
   
